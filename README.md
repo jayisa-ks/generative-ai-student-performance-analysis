@@ -12,7 +12,7 @@ The objective is to demonstrate a complete data analytics workflow, from raw dat
 
   ##  Project Workflow
 
-  ### 1. Data Collection
+### 1. Data Collection
 - Imported student AI usage dataset.
 
 ### 2. Data Cleaning
@@ -49,7 +49,7 @@ The objective is to demonstrate a complete data analytics workflow, from raw dat
 
   <img width="607" height="337" alt="image" src="https://github.com/user-attachments/assets/804abc34-7fd7-4eb4-9260-68abbe7153c3" />
 
-## 📈 Key Insights
+##  Key Insights
 
 - Moderate AI usage resulted in the highest GPA improvement.
 - Excessive AI dependency reduced skill retention.
@@ -57,7 +57,7 @@ The objective is to demonstrate a complete data analytics workflow, from raw dat
 - Higher AI usage was associated with increased exam anxiety.
 - A significant percentage of students were identified as medium or high burnout risk.
 
-## 🎯 Skills Demonstrated
+##  Skills Demonstrated
 
 - Data Cleaning
 - Exploratory Data Analysis
